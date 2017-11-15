@@ -8,6 +8,7 @@
 * [Open Science Manifesto](https://ocsdnet.org/manifesto/open-science-manifesto/)
 * [Indigenous Knowledge and Climate Change Adaptation](https://ocsdnet.org/projects/natural-justice-empowering-indigenous-peoples-and-knowledge-systems-related-to-climate/)
 * [Data Ethics - Investing Wisely in Data at Scale](https://www.teamupturn.org/reports/2016/data-ethics)
+* [Conducting Research with Northern Communities Documented Practices and Resources for Productive, Respectful Relationships Between Researchers and Community Members](https://www.arcus.org/resources/northern-communities)
 * [A DATA STARTER KIT FOR HUMANITARIAN FIELD STAFF](http://elan.cashlearning.org/)
 * [Unviersity of Michigan: Research Guides - Indigenous Resources](http://guides.lib.umich.edu/c.php?g=283427&p=1884014)
 * [Indigenous peoples and responsible data: an introductory reading list](https://responsibledata.io/indigenous-peoples-responsible-data-readings/)
