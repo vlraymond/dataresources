@@ -16,5 +16,8 @@
 # Examples
 * [JustPeace Labs - Draft Ethical Guidelines for PeaceTech]()
 
-# data science resourcs
+# data science resources
 * [https://www.inferentialthinking.com/chapters/01/what-is-data-science.html](The Foundations of Data Science by By Ani Adhikari and John DeNero)
+
+# data management resources
+* [https://docs.google.com/spreadsheets/d/1liEyd7sjXdSJZq3-ZtNJnZ7gLEfJ8nvwFcTlBYyWU8U/edit#gid=1656867777](ESIP Data Management Clearinghouse Croudsourcing Activity)
