@@ -15,3 +15,6 @@
 
 # Examples
 * [JustPeace Labs - Draft Ethical Guidelines for PeaceTech]()
+
+# data science resourcs
+* [https://www.inferentialthinking.com/chapters/01/what-is-data-science.html](The Foundations of Data Science by By Ani Adhikari and John DeNero)
