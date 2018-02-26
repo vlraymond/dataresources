@@ -21,3 +21,6 @@
 
 # data management resources
 * [https://docs.google.com/spreadsheets/d/1liEyd7sjXdSJZq3-ZtNJnZ7gLEfJ8nvwFcTlBYyWU8U/edit#gid=1656867777](ESIP Data Management Clearinghouse Croudsourcing Activity)
+
+# indigenous resources
+* [http://bbonline.bbnc.net/educational-resources/](Global Place Names Projects)
