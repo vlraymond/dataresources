@@ -24,3 +24,4 @@
 
 # indigenous resources
 * [http://bbonline.bbnc.net/educational-resources/](Global Place Names Projects)
+* [http://sustainableheritagenetwork.org/digital-stewardship-curriculum-page](Sustainable Heritage Network's Digital Stewardship Curriculum)
