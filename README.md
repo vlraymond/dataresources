@@ -17,11 +17,11 @@
 * [JustPeace Labs - Draft Ethical Guidelines for PeaceTech]()
 
 # data science resources
-* [https://www.inferentialthinking.com/chapters/01/what-is-data-science.html](The Foundations of Data Science by By Ani Adhikari and John DeNero)
+* [The Foundations of Data Science by By Ani Adhikari and John DeNero](https://www.inferentialthinking.com/chapters/01/what-is-data-science.html)
 
 # data management resources
-* [https://docs.google.com/spreadsheets/d/1liEyd7sjXdSJZq3-ZtNJnZ7gLEfJ8nvwFcTlBYyWU8U/edit#gid=1656867777](ESIP Data Management Clearinghouse Croudsourcing Activity)
+* [ESIP Data Management Clearinghouse Croudsourcing Activity](https://docs.google.com/spreadsheets/d/1liEyd7sjXdSJZq3-ZtNJnZ7gLEfJ8nvwFcTlBYyWU8U/edit#gid=1656867777)
 
 # indigenous resources
-* [http://bbonline.bbnc.net/educational-resources/](Global Place Names Projects)
-* [http://sustainableheritagenetwork.org/digital-stewardship-curriculum-page](Sustainable Heritage Network's Digital Stewardship Curriculum)
+* [Global Place Names Projects](http://bbonline.bbnc.net/educational-resources/)
+* [Sustainable Heritage Network's Digital Stewardship Curriculum](http://sustainableheritagenetwork.org/digital-stewardship-curriculum-page)
