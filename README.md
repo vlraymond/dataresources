@@ -25,3 +25,4 @@
 # indigenous resources
 * [Global Place Names Projects](http://bbonline.bbnc.net/educational-resources/)
 * [Sustainable Heritage Network's Digital Stewardship Curriculum](http://sustainableheritagenetwork.org/digital-stewardship-curriculum-page)
+* [Towards an Indigenist data management program: reflections on experiences developing an atlas of sea ice knowledge and use](http://onlinelibrary.wiley.com/doi/10.1111/j.1541-0064.2010.00348.x/full)
