@@ -30,4 +30,4 @@
 * [Community Based Monitoring Strategy - 2008](https://oaarchive.arctic-council.org/bitstream/handle/11374/192/Community_Based_Montioring_Strategy_March_2008.pdf?sequence=1
 
 # the cybers
-* [Danya Glabau's Cybords and Cybernetics sylalbus](https://danyaglabau.com/2018/09/07/cyborgs-cybernetics-syllabus/)
+* [Danya Glabau's Cyborgs and Cybernetics sylalbus](https://danyaglabau.com/2018/09/07/cyborgs-cybernetics-syllabus/)
