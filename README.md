@@ -31,3 +31,6 @@
 
 # the cybers
 * [Danya Glabau's Cyborgs and Cybernetics sylalbus](https://danyaglabau.com/2018/09/07/cyborgs-cybernetics-syllabus/)
+
+# communal, community
+* [The Lifecycle of a Network-Centric Resource](https://www.fabriders.net/network-centric-resources-lifecycle/)
