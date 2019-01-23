@@ -13,6 +13,7 @@
 * [Unviersity of Michigan: Research Guides - Indigenous Resources](http://guides.lib.umich.edu/c.php?g=283427&p=1884014)
 * [Indigenous peoples and responsible data: an introductory reading list](https://responsibledata.io/indigenous-peoples-responsible-data-readings/)
 * [Good Data - open source book](http://networkcultures.org/blog/publication/tod-29-good-data/)
+* [Fairness and abstraction in socitechnical systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3265913)
 
 # Examples
 * [JustPeace Labs - Draft Ethical Guidelines for PeaceTech]()
