@@ -12,6 +12,7 @@
 * [A DATA STARTER KIT FOR HUMANITARIAN FIELD STAFF](http://elan.cashlearning.org/)
 * [Unviersity of Michigan: Research Guides - Indigenous Resources](http://guides.lib.umich.edu/c.php?g=283427&p=1884014)
 * [Indigenous peoples and responsible data: an introductory reading list](https://responsibledata.io/indigenous-peoples-responsible-data-readings/)
+* [Good Data - open source book](http://networkcultures.org/blog/publication/tod-29-good-data/)
 
 # Examples
 * [JustPeace Labs - Draft Ethical Guidelines for PeaceTech]()
