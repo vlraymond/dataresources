@@ -36,3 +36,7 @@
 
 # communal, community
 * [The Lifecycle of a Network-Centric Resource](https://www.fabriders.net/network-centric-resources-lifecycle/)
+* [Data Communities](https://sr.ithaka.org/publications/data-communities/)
+
+# MOOCs
+* [Open Science MOOC on Eliademy](https://eliademy.com/catalog/oer/module-1-open-principles.html)
