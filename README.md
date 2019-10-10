@@ -20,6 +20,7 @@
 
 # data science resources
 * [The Foundations of Data Science by By Ani Adhikari and John DeNero](https://www.inferentialthinking.com/chapters/01/what-is-data-science.html)
+* [What is a dataset](https://blog.ldodds.com/2017/10/23/what-is-a-dataset-part-2-a-working-definition/)
 
 # data management resources
 * [ESIP Data Management Clearinghouse Croudsourcing Activity](https://docs.google.com/spreadsheets/d/1liEyd7sjXdSJZq3-ZtNJnZ7gLEfJ8nvwFcTlBYyWU8U/edit#gid=1656867777)
