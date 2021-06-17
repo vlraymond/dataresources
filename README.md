@@ -18,7 +18,7 @@
 * [Our Data bodies](https://www.odbproject.org/)
 
 
-# Examples
+## Examples
 * [JustPeace Labs - Draft Ethical Guidelines for PeaceTech]()
 
 # data science resources
@@ -33,12 +33,12 @@
 * [Sustainable Heritage Network's Digital Stewardship Curriculum](http://sustainableheritagenetwork.org/digital-stewardship-curriculum-page)
 * [Towards an Indigenist data management program: reflections on experiences developing an atlas of sea ice knowledge and use](http://onlinelibrary.wiley.com/doi/10.1111/j.1541-0064.2010.00348.x/full)
 * [The role of data management in engaging communities in Arctic research: overview of the Exchange for Local Observations and Knowledge of the Arctic (ELOKA)](https://www.tandfonline.com/doi/abs/10.1080/1088937X.2012.708364)
-* [Community Based Monitoring Strategy - 2008](https://oaarchive.arctic-council.org/bitstream/handle/11374/192/Community_Based_Montioring_Strategy_March_2008.pdf?sequence=1
+* [Community Based Monitoring Strategy - 2008](https://oaarchive.arctic-council.org/bitstream/handle/11374/192/Community_Based_Montioring_Strategy_March_2008.pdf?sequence=1)
 
 # the cybers
 * [Danya Glabau's Cyborgs and Cybernetics sylalbus](https://danyaglabau.com/2018/09/07/cyborgs-cybernetics-syllabus/)
 
-# communal, community
+# communal data, community
 * [The Lifecycle of a Network-Centric Resource](https://www.fabriders.net/network-centric-resources-lifecycle/)
 * [Data Communities](https://sr.ithaka.org/publications/data-communities/)
 
