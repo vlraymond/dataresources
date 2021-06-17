@@ -47,3 +47,11 @@
 
 # MOOCs
 * [Open Science MOOC on Eliademy](https://eliademy.com/catalog/oer/module-1-open-principles.html)
+
+# Data Art / Visualization resources
+* [data portraiture exercise](https://towardsdatascience.com/the-data-is-in-the-art-b97cf2ceda7c)
+* [dear data project](http://www.dear-data.com/all)
+* [data zine vol. 1](https://drive.google.com/file/d/0BxSRZS7K39ICdjdqQ2RJaVdQcDFhbnVSMEctejdIcjVhT1dn/view?usp=sharing&resourcekey=0-bNKECMRduGb8RMHKZnYaRw)
+* [Convene North data art curriculum](https://docs.google.com/document/d/1pJwvKgnsRJHtWO7E2WUS0QX3FBrzJYs6M6lS83xGQNM/edit?usp=sharing)
+* [Lessons learned from creating physical data visualizations](https://medium.com/nightingale/lessons-learned-from-creating-physical-data-visualizations-f7dac506f17b)
+* [Data cuisine project - edible data](http://data-cuisine.net/)
